@@ -29,6 +29,7 @@
 			<button type="submit">削除</button>
 		</div>
 	</form>
+
 ​
 ​
 	<c:if test="${!empty resultMessage}">
